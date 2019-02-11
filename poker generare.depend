@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1514472944 source:d:\facultate\c\poker generare\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1514473420 source:d:\facultate\c\poker generare - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1515424810 source:d:\facultate\c\poker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+	"constante.h"
+
+1515235316 d:\facultate\c\poker\structuri.h
+
+1515510348 d:\facultate\c\poker\functii.h
+
+1515424810 d:\facultate\c\poker\constante.h
+
+1515428410 source:d:\facultate\anul i\semestrul i\c\poker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+	"constante.h"
+
+1515238916 d:\facultate\anul i\semestrul i\c\poker\structuri.h
+
+1515513948 d:\facultate\anul i\semestrul i\c\poker\functii.h
+
+1515428410 d:\facultate\anul i\semestrul i\c\poker\constante.h
+
+1515424810 source:d:\facultate\anul 1 - semestrul 1\c\poker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+	"constante.h"
+
+1515235316 d:\facultate\anul 1 - semestrul 1\c\poker\structuri.h
+
+1549823794 d:\facultate\anul 1 - semestrul 1\c\poker\functii.h
+
+1515424810 d:\facultate\anul 1 - semestrul 1\c\poker\constante.h
+
